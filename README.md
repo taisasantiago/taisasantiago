@@ -1,6 +1,7 @@
 # 👩‍💻 Olá, eu sou a Taísa Santiago!
 
 Sou estudante de **Sistemas de Informação** 
+
 Aqui você vai encontrar meus projetos, estudos e experimentos com **HTML, CSS, JavaScript** e muito mais 🚀
 
 ---
