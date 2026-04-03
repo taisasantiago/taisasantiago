@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Taísa Santiago!
+# 👩‍💻 Olá, eu sou Taísa Santiago!
 
 Sou estudante de **Sistemas de Informação** 
 
