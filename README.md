@@ -17,6 +17,12 @@
     Transformando ideias em interfaces funcionais, acessíveis e visualmente encantadoras.
   </p>
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Recife,%20PE-FF69B4?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Open%20to%20Work-white?style=flat-square&logoColor=FF69B4" />
+  </p>
+</div>
+
   <br>
 </div>
 
