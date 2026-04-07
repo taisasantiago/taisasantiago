@@ -1,75 +1,54 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=160&section=header&text=Taísa%20Santiago&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-  <br><br>
-
-  <h2>
-    <span style="background-color:#FFD1E8; padding: 5px 12px; border-radius: 8px;">
-      Olá, seja bem-vindo(a)!
-    </span>
-  </h2>
-
-  <p style="font-size: 1.2em;">
-    ✨ <b>Estudante de Sistemas de Informação | UI/UX Designer & Front-End</b> ✨
-  </p>
-
-  <p style="color: #777;">
-    Transformando ideias em interfaces funcionais, acessíveis e visualmente encantadoras.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=150&section=header&text=Taísa%20Santiago&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" />
 
   <br>
 
+  <h2><kbd> ✨ UI/UX Designer & Front-End Developer ✨ </kbd></h2>
+
+  <p align="center">
+    <b>Transformando problemas complexos em interfaces funcionais e apaixonantes.</b> <br>
+    <i>Estudante de Sistemas de Informação @ UNINASSAU (7º Período)</i>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Recife,%20PE-FF69B4?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Open%20to%20Work-white?style=flat-square&logoColor=FF69B4" />
+  </p>
 </div>
 
 ---
 
-### 🌸 Sobre Mim
+### 🎀 Sobre Mim
 
 <div align="left">
-
-Olá! Sou estudante de Sistemas de Informação (7º período), com foco em criar experiências digitais que unem funcionalidade e estética.
-
-Atualmente, concentro meus estudos e projetos em **Front-End** e **UI Design**, utilizando ferramentas como **HTML, CSS, JavaScript, Canva e Figma**. Tenho grande interesse na integração de **Inteligência Artificial** no desenvolvimento web, buscando criar interfaces mais inteligentes e otimizar fluxos de trabalho.
-
-Estou em busca de oportunidades de estágio e projetos que me permitam aplicar meus conhecimentos na prática, enquanto continuo evoluindo profissionalmente. Quero fazer parte de equipes que valorizem inovação, colaboração e tecnologia.
-
-✨ Vamos nos conectar!
-
+  Olá! Sou apaixonada pela intersecção entre <b>Design e Tecnologia</b>. Meu foco é criar experiências digitais que não apenas funcionem perfeitamente, mas que também encantem visualmente. 
+  
+  Atualmente, dedico meus estudos ao <b>Front-End</b> e à <b>IA aplicada ao design</b>, buscando sempre interfaces mais acessíveis e inteligentes. Estou em busca de novos desafios onde eu possa aplicar minha criatividade e técnica para resolver problemas reais.
 </div>
 
 ---
 
-### 🎨 Minha Paleta de Criação (Linguagens & Ferramentas)
+### 🎨 My Creative Stack
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Visual Design</span>
-      </td>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Prototipagem</span>
-      </td>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Estrutura</span>
-      </td>
+      <td align="center" width="180"><b>Design & Protótipo</b></td>
+      <td align="center" width="180"><b>Desenvolvimento</b></td>
+      <td align="center" width="180"><b>Lógica & IA</b></td>
     </tr>
     <tr>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Estilização</span>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
       </td>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Interatividade</span>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </td>
-      <td align="center" width="150" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><br>
-        <span style="color: #FF69B4; font-weight: bold;">Lógica / IA</span>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -77,46 +56,39 @@ Estou em busca de oportunidades de estágio e projetos que me permitam aplicar m
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 My Performance
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=dracula&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=6&theme=dracula&title_color=FF69B4&text_color=ffffff&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=444&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=6&theme=rose&title_color=FF69B4&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=dracula&fire=FF69B4&ring=FF69B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=rose&fire=FF69B4&ring=FF69B4&sideNums=FF69B4&hide_border=true" />
 </div>
 
 ---
 
-### 💌 Vamos Criar Algo Juntos?
+### 💌 Vamos nos conectar?
 
 <div align="center">
-
   <a href="https://www.linkedin.com/in/ta%C3%ADsa-santiago-a46807334/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://instagram.com/taisasantiago.dev">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose&quote=Design%20is%20intelligence%20made%20visible.&quoteColor=FF69B4" />
+</div>
