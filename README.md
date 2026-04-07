@@ -44,37 +44,15 @@ Estou em busca de oportunidades de estágio e projetos que me permitam aplicar m
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br>
-        <sub>Visual Design</sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" /><br>
-        <sub>Prototipagem</sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br>
-        <sub>Estrutura</sub>
-      </td>
-    </tr>
+<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
 
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br>
-        <sub>Estilização</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-        <sub>Interatividade</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><br>
-        <sub>Lógica</sub>
-      </td>
-    </tr>
-  </table>
+<br><br>
+
+<img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
