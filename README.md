@@ -5,7 +5,7 @@
 
   <h2 style="border-bottom: none;">
     <span style="background-color:#ffe4ef; color: #f389b1; padding: 5px 20px; border-radius: 50px; font-size: 0.8em;">
-      Olá, seja bem vindo(a)! 
+      Olá, seja bem vindo(a)! ✨
     </span>
   </h2>
 
@@ -94,12 +94,9 @@
   <h3>
     <img src="https://img.icons8.com/material-sharp/24/f389b1/chart-line.png" width="20px"> Minhas Estatísticas
   </h3>
+  
+  <br>
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=rose&title_color=f389b1&icon_color=f389b1&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=6&theme=rose&title_color=f389b1&hide_border=true" />
-  
-  <br><br>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=rose&fire=f389b1&ring=f389b1&sideNums=f389b1&hide_border=true" />
 </div>
 
