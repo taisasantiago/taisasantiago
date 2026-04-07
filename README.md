@@ -5,7 +5,7 @@
 
   <h2 style="border-bottom: none;">
     <span style="background-color:#ffe4ef; color: #f389b1; padding: 5px 20px; border-radius: 50px; font-size: 0.8em;">
-      Olá, seja bem vindo(a)! ✨
+      Olá, seja bem vindo(a)! 
     </span>
   </h2>
 
