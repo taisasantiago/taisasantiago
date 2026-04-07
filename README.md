@@ -4,20 +4,18 @@
 
   <br><br>
 
-  <h2>
-    <span style="background-color:#FFD1E8; padding: 5px 12px; border-radius: 8px;">
-      Olá, seja bem-vindo(a)!
-    </span>
-  </h2>
+<h2><kbd> ✨ Futura Front-End Developer ✨ </kbd></h2>
 
-  <p style="font-size: 1.2em;">
-    ✨ <b>Estudante de Sistemas de Informação | UI/UX Designer & Front-End</b> ✨
+  <p align="center">
+    <b>Transformando problemas complexos em interfaces funcionais e apaixonantes.</b> <br>
+    <i>Estudante de Sistemas de Informação @ UNINASSAU (7º Período)</i>
   </p>
 
-  <p style="color: #777;">
-    Transformando ideias em interfaces funcionais, acessíveis e visualmente encantadoras.
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Recife,%20PE-FF69B4?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Open%20to%20Work-white?style=flat-square&logoColor=FF69B4" />
   </p>
-
+</div>
   <br>
 
 </div>
