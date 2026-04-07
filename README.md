@@ -5,7 +5,7 @@
 
   <h2>
     <span style="background-color:#FFD1E8; color: #D81B60; padding: 5px 15px; border-radius: 50px; font-size: 0.8em;">
-      Olá, seja bem-vindo(a)! ✨
+      Olá, seja bem-vindo(a)! 
     </span>
   </h2>
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🎀 Sobre Mim
+### Sobre Mim
 
 <div align="left" style="line-height: 1.6;">
   Olá! Sou estudante de Sistemas de Informação (7º período), com foco em criar experiências digitais que unem funcionalidade e estética.
@@ -36,7 +36,7 @@
 
 ---
 
-### 🎨 Minha Paleta de Criação
+### Minha Paleta de Criação
 
 <div align="center">
   <table border="0">
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### Minhas Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&hide_border=true" />
@@ -86,7 +86,7 @@
 
 ---
 
-### 💌 Vamos Criar Algo Juntos?
+### Redes Sociais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ta%C3%ADsa-santiago-a46807334/">
