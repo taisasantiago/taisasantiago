@@ -3,9 +3,9 @@
 
   <br>
 
-  <h1 style="font-size: 1.25em; color: #333;">
+  <h2 style="font-size: 1.25em; color: #333;">
     Olá, seja bem vindo(a)!
-  </h1>
+  </h2>
 
   <p style="font-size: 1.25em; color: #333;">
     <b>Estudante de Sistemas de Informação | UI/UX Designer & Front-End</b>
