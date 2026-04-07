@@ -25,15 +25,18 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/n-f04/n-f04/master/assets/rainbow_line.gif" width="20px" height="20px"> Sobre Mim
+---
+
+### <img src="https://img.icons8.com/material-sharp/24/FF69B4/info.png" width="18px"> Sobre Mim
 
 <div align="center">
-  <p style="max-width: 800px; line-height: 1.8; color: #444;">
-Sou estudante de <b>Sistemas de Informação</b> (7º período), com foco em criar experiências digitais que unem funcionalidade e estética. Atualmente, concentro meus estudos e projetos em <span style="color: #D81B60; font-weight: bold;">Front-End</span> , utilizando ferramentas como <b>HTML, CSS, JavaScript, Canva e Figma</b>. 
+  <p style="max-width: 800px; line-height: 1.8; color: #444; text-align: center;">
+    Olá! Sou estudante de <b>Sistemas de Informação</b> (7º período), com foco em criar experiências digitais que unem funcionalidade e estética. Atualmente, concentro meus estudos e projetos em <span style="color: #D81B60; font-weight: bold;">Front-End</span> e <span style="color: #D81B60; font-weight: bold;">UI Design</span>, utilizando ferramentas como <b>HTML, CSS, JavaScript, Canva e Figma</b>. 
     <br><br>
-   Tenho grande interesse na integração de <b>Inteligência Artificial</b> no desenvolvimento web, buscando criar interfaces mais inteligentes e otimizar fluxos de trabalho. Estou em busca de oportunidades para aplicar meus conhecimentos e continuar evoluindo.
-    <br>
-    Vamos nos conectar! 
+    Tenho grande interesse na integração de <b>Inteligência Artificial</b> no desenvolvimento web, buscando criar interfaces mais inteligentes e otimizar fluxos de trabalho. Estou em busca de oportunidades para aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+    <br><br>
+    <img src="https://img.shields.io/badge/Vamos%20nos%20conectar!-D81B60?style=flat-square&logo=link&logoColor=white" />
+  </p>
 </div>
 
 ---
