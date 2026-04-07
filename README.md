@@ -31,7 +31,7 @@
 
   Estou em busca de oportunidades de estágio e projetos que me permitam aplicar meus conhecimentos na prática, enquanto continuo evoluindo profissionalmente. 
 
-  ✨ **Vamos nos conectar!**
+  **Vamos nos conectar!**
 </div>
 
 ---
