@@ -1,65 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=eb4d4b&height=150&section=header&text=Taísa%20Santiago&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=FF69B4&height=120&section=header&text=Olá,%20sou%20Taísa%20Santiago&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br>
 
-  <h1>✨ Visual Designer & Front-End Developer ✨</h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Recife-PE-ff69b4?style=flat-square" />
-    <img src="https://img.shields.io/badge/7º%20Período-Sistemas%20de%20Informação-purple?style=flat-square" />
-  </p>
+  <p style="font-size: 1.2em; color: #555;">✨ <b>Estudante de Sistemas de Informação | UI/UX Designer & Front-End</b> ✨</p>
+  <p style="color: #777;">Transformando ideias em interfaces funcionais, acessíveis e visualmente encantadoras.</p>
 
-  ---
-
-  ### 🎨 Onde o Design encontra o Código
-  *Transformando problemas complexos em interfaces simples e apaixonantes.*
-</div>
-
-
----
-
-### 🛠️ Tech Stack & Creative Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
 ---
 
-### 📊 My Creative Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=rose&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=8&theme=rose&hide_border=true&title_color=ff69b4" />
-</div>
+### 🌸 Sobre Mim
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=rose&hide_border=true" />
+<div align="left">
+I am a passionate creator focused on the intersection of technology and aesthetic design. My goal is to craft digital experiences that are not only efficient but also delightful to use. I believe that good design is invisible, intuitive, and inclusive.
 </div>
 
 ---
 
-### 📫 Conecte-se comigo
+### 🎨 Minha Paleta de Criação (Linguagens & Ferramentas)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br>
+        <span style="color: #FF69B4;">Visual Design</span>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" /><br>
+        <span style="color: #FF69B4;">Prototipagem</span>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br>
+        <span style="color: #FF69B4;">Estrutura</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br>
+        <span style="color: #FF69B4;">Estilização</span>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+        <span style="color: #FF69B4;">Interatividade</span>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><br>
+        <span style="color: #FF69B4;">Lógica</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Minhas Estatísticas Criativas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=dracula&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=6&theme=dracula&title_color=FF69B4&text_color=ffffff&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=dracula&fire=FF69B4&ring=FF69B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
+
+---
+
+### 📫 Vamos Criar Algo Juntos?
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ta%C3%ADsa-santiago-a46807334/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/taisasantiago.dev">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:taisa@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/taisasantiago/taisasantiago/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Design%20is%20intelligence%20made%20visible.&quoteColor=FF69B4" />
 </div>
