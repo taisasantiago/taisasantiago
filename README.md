@@ -3,9 +3,9 @@
 
   <br>
 
-  <h2>
-    <img src="https://img.shields.io/badge/-%20Olá,%20seja%20bem--vindo(a)!-FFD1E8?style=flat-square&logo=visual-studio-code&logoColor=D81B60&labelColor=FFD1E8" style="border-radius: 50px;" />
-  </h2>
+  <h1 style="font-size: 1.25em; color: #333;">
+    Olá, seja bem vindo(a)!
+  </h1>
 
   <p style="font-size: 1.25em; color: #333;">
     <b>Estudante de Sistemas de Informação | UI/UX Designer & Front-End</b>
