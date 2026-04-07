@@ -16,12 +16,6 @@
   *Transformando problemas complexos em interfaces simples e apaixonantes.*
 </div>
 
-### 🚀 Meus Projetos de Destaque (Insights)
-> Como aspirante a designer, aqui estão os projetos onde foquei na experiência do usuário:
-
-* **🍎 Recipe App (UX para Idosos):** Estudo de acessibilidade, contraste e tipografia para o público sênior.
-* **🔒 Phishing Simulator:** Gamificação de segurança digital com foco em engajamento visual.
-* **🎬 Netflix Interface:** Recriação de UI focada em responsividade e fidelidade visual.
 
 ---
 
