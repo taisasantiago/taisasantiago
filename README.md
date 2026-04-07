@@ -88,7 +88,3 @@ I am a passionate creator focused on the intersection of technology and aestheti
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Design%20is%20intelligence%20made%20visible.&quoteColor=FF69B4" />
-</div>
