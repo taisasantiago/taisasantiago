@@ -5,7 +5,7 @@
 
   <h2 style="border-bottom: none;">
     <span style="background-color:#ffe4ef; color: #f389b1; padding: 5px 20px; border-radius: 50px; font-size: 0.8em;">
-      Olá, seja bem vindo(a)! 
+      Olá, seja bem vindo(a)! ✨
     </span>
   </h2>
 
@@ -65,4 +65,66 @@
         <small style="color: #f389b1; font-weight: bold;">Prototipagem</small>
       </td>
       <td align="center" width="160" style="padding: 15px;">
-        <img src="
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+        <small style="color: #f389b1; font-weight: bold;">Estrutura</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="160" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+        <small style="color: #f389b1; font-weight: bold;">Estilização</small>
+      </td>
+      <td align="center" width="160" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+        <small style="color: #f389b1; font-weight: bold;">Interatividade</small>
+      </td>
+      <td align="center" width="160" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+        <small style="color: #f389b1; font-weight: bold;">Lógica / IA</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <h3>
+    <img src="https://img.icons8.com/material-sharp/24/f389b1/chart-line.png" width="20px"> Minhas Estatísticas
+  </h3>
+
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=taisasantiago&show_icons=true&theme=rose&title_color=f389b1&icon_color=f389b1&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasantiago&layout=compact&langs_count=6&theme=rose&title_color=f389b1&hide_border=true" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisasantiago&theme=rose&fire=f389b1&ring=f389b1&sideNums=f389b1&hide_border=true" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <h3>
+    <img src="https://img.icons8.com/material-sharp/24/f389b1/share.png" width="20px"> Redes Sociais
+  </h3>
+
+  <div style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/ta%C3%ADsa-santiago-a46807334/">
+      <img src="https://img.shields.io/badge/LinkedIn-f389b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/taisasantiago.dev">
+      <img src="https://img.shields.io/badge/Instagram-f389b1?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:taisasantiago@example.com">
+      <img src="https://img.shields.io/badge/Gmail-f389b1?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+<br>
