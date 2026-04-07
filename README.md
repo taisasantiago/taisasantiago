@@ -32,9 +32,8 @@
     Sou estudante de <b>Sistemas de Informação</b> (7º período), com foco em criar experiências digitais que unem funcionalidade e estética. Atualmente, concentro meus estudos e projetos em <span style="color: #D81B60; font-weight: bold;">Front-End</span> e <span style="color: #D81B60; font-weight: bold;">UI Design</span>, utilizando ferramentas como <b>HTML, CSS, JavaScript, Canva e Figma</b>. 
     <br><br>
     Tenho grande interesse na integração de <b>Inteligência Artificial</b> no desenvolvimento web, buscando criar interfaces mais inteligentes e otimizar fluxos de trabalho. Estou em busca de oportunidades de estágio e projetos para aplicar meus conhecimentos e continuar evoluindo.
-    <br><br>
-    <img src="https://img.shields.io/badge/Vamos%20nos%20conectar!-D81B60?style=flat-square&logo=link&logoColor=white" />
-  </p>
+    <br>
+    Vamos nos conectar! 
 </div>
 
 ---
@@ -89,7 +88,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/material-sharp/24/FF69B4/share.png" width="18px"> Vamos Criar Algo Juntos?
+### <img src="https://img.icons8.com/material-sharp/24/FF69B4/share.png" width="18px"> Redes Sociais
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/ta%C3%ADsa-santiago-a46807334/">
